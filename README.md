@@ -73,7 +73,8 @@ I’m an **AI/ML Engineer** passionate about building intelligent systems with *
 
 <div align="center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinakar-22&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinakar-22&hide_progress=true)
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dinakar-22&theme=dark)](https://git.io/streak-stats)
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Dinakar-22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -82,10 +83,27 @@ I’m an **AI/ML Engineer** passionate about building intelligent systems with *
 
 ---
 
+## 🌐 Connect With Me  
+
 <div align="center">
 
-  
-  
+  <a href="https://www.linkedin.com/in/dinakar-sethuraman-0a79b0219/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://dinakar-aiml-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gvt22.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/399483962549993472" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+ 
 </div>
+
 
 ![](https://komarev.com/ghpvc/?username=Dinakar-22)
