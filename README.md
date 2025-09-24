@@ -75,7 +75,7 @@ I’m an **AI/ML Engineer** passionate about building intelligent systems with *
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinakar-22&hide_progress=true)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dinakar-22&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Dinakar-22&theme=dark&border_radius=5.5)](https://git.io/streak-stats)
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Dinakar-22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
